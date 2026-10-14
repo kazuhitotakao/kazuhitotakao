@@ -30,7 +30,7 @@ PHP / LaravelでのWebアプリケーション開発と、Nuxt / Vue.js / TypeSc
 - **使用技術**：Nuxt 3 / Vue.js 3 / TypeScript / CSS
 - **URL**：[公開コード](https://github.com/kazuhitotakao/kouchan-game) · [ゲームを遊ぶ](https://kouchan-game.vercel.app/)
 
-### 2. coachtechフリマ（flea-market）｜学習成果物
+### 2. フリマアプリ（flea-market）｜学習成果物
 
 商品の出品から購入までの流れを実装したフリマアプリです。
 
