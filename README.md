@@ -46,7 +46,7 @@ PHP / LaravelでのWebアプリケーション開発と、Nuxt / Vue.js / TypeSc
 - **使用技術**：PHP / Laravel / MySQL / Docker
 - **URL**：[公開コード・README](https://github.com/kazuhitotakao/Rese)
 
-### 4. Atte（attendance）｜初級模擬案件
+### 4. Atte（attendance）｜学習成果物
 
 出退勤と休憩時間を記録する勤怠管理アプリです。
 
