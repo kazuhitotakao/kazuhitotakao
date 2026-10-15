@@ -17,8 +17,8 @@ Nuxt 3 / Vue.js / TypeScript / Laravelを使用したWebシステム開発の実
 | 外部サービス連携 | Stripe | フリマアプリのテスト決済 |
 | 開発環境 | Docker / Docker Compose / nginx | Laravelアプリの開発環境構築 |
 
-**学習中：React**  
-コンポーネントの考え方や状態管理などの基礎を学んでいます。
+**React（個人開発準備中）**  
+Reactの基礎を学習済みで、現在はReactを使用したWebアプリケーションの企画・設計を進めています。
 
 ## 作品一覧
 
