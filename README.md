@@ -4,7 +4,8 @@
 
 Nuxt 3 / Vue.js / TypeScript / Laravelを使用したWebシステム開発の実務経験があり、個人開発にも取り組んでいます。  
 学習成果物として予約・フリマ・勤怠管理アプリを制作し、個人開発ではブラウザゲーム「こうちゃんの大冒険」を公開しています。  
-公開コードを通じて、画面づくりやデータ管理などの実装内容を紹介します。Reactは現在勉強中です。  
+公開コードを通じて、画面づくりやデータ管理などの実装内容を紹介しています。  
+Reactの基礎学習を終え、現在はReactを使用した新しいWebアプリケーションの開発に向けて準備を進めています。  
 
 ## 使用技術・学習中
 
@@ -54,8 +55,8 @@ Reactの基礎を学習済みで、現在はReactを使用したWebアプリケ�
 - **使用技術**：PHP / Laravel / MySQL / Docker
 - **URL**：[公開コード・README](https://github.com/kazuhitotakao/attendance)
 
-## 現在の学習方針
+## 現在の学習・開発方針
 
-既存作品の改善を通じて、Vue.js / Nuxt / TypeScriptの理解を深め、読みやすく保守しやすいコードを目指します。PHP / Laravelでは認証やデータ管理の基礎を固めながら、Reactの基礎学習も進めています。
-
+Reactの基礎学習を終え、現在はReactを使用した新しいWebアプリケーションの企画・設計を進めています。  
+  
 このプロフィールREADMEは、[kazuhitotakao](https://github.com/kazuhitotakao/kazuhitotakao)で管理しています。
