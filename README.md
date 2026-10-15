@@ -22,7 +22,7 @@ Nuxt 3 / Vue.js / TypeScript / Laravelを使用したWebシステム開発の実
 
 - **主な実装**：行動による時間・ステータスの変化、進行の保存・再開、ミニゲームの解放、PWA対応
 - **使用技術**：Nuxt 3 / Vue.js 3 / TypeScript / CSS
-- **URL**：[公開コード](https://github.com/kazuhitotakao/kouchan-game) · [ゲームを遊ぶ](https://kouchan-game.vercel.app/)
+- **URL**：[公開コード・README](https://github.com/kazuhitotakao/kouchan-game) · [ゲームを遊ぶ](https://kouchan-game.vercel.app/)
 
 ### 2. フリマアプリ（flea-market）｜学習成果物
 
